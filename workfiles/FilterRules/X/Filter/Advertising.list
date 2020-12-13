@@ -1,0 +1,355 @@
+# Advertising 广告
+# > General
+DOMAIN-KEYWORD,adservice,ADVERT
+
+DOMAIN-SUFFIX,adcolony.com,ADVERT
+DOMAIN-SUFFIX,adinall.com,ADVERT
+DOMAIN-SUFFIX,admaster.com.cn,ADVERT
+DOMAIN-SUFFIX,admob.com,ADVERT
+DOMAIN-SUFFIX,adnxs.com,ADVERT
+DOMAIN-SUFFIX,adnyg.com,ADVERT
+DOMAIN-SUFFIX,adsensor.org,ADVERT
+DOMAIN-SUFFIX,adsymptotic.com,ADVERT
+DOMAIN-SUFFIX,adthor.com,ADVERT
+DOMAIN-SUFFIX,adwhirl.com,ADVERT
+DOMAIN-SUFFIX,amazon-adsystem.com,ADVERT
+DOMAIN-SUFFIX,amobee.com,ADVERT
+DOMAIN-SUFFIX,app-adforce.jp,ADVERT
+DOMAIN-SUFFIX,appads.com,ADVERT
+DOMAIN-SUFFIX,appcpi.net,ADVERT
+DOMAIN-SUFFIX,appier.net,ADVERT
+DOMAIN-SUFFIX,applift.com,ADVERT
+DOMAIN-SUFFIX,applovin.com,ADVERT
+DOMAIN-SUFFIX,applvn.com,ADVERT
+DOMAIN-SUFFIX,apsalar.com,ADVERT
+DOMAIN-SUFFIX,apxadtracking.net,ADVERT
+DOMAIN-SUFFIX,axonix.com,ADVERT
+DOMAIN-SUFFIX,bayimob.com,ADVERT
+DOMAIN-SUFFIX,bjvvqu.cn,ADVERT
+DOMAIN-SUFFIX,bulldogcpi.com,ADVERT
+DOMAIN-SUFFIX,clotfun.mobi,ADVERT
+DOMAIN-SUFFIX,clotfun.online,ADVERT
+DOMAIN-SUFFIX,cloudmobi.net,ADVERT
+DOMAIN-SUFFIX,crwdcntrl.net,ADVERT
+DOMAIN-SUFFIX,ctrmi.com,ADVERT
+DOMAIN-SUFFIX,exosrv.com,ADVERT
+DOMAIN-SUFFIX,go2cloud.org,ADVERT
+DOMAIN-SUFFIX,growingio.com,ADVERT
+DOMAIN-SUFFIX,haloapps.com,ADVERT
+DOMAIN-SUFFIX,hypers.com,ADVERT
+DOMAIN-SUFFIX,idealads.net,ADVERT
+DOMAIN-SUFFIX,inmobi.cn,ADVERT
+DOMAIN-SUFFIX,inmobi.com,ADVERT
+DOMAIN-SUFFIX,inmobi.net,ADVERT
+DOMAIN-SUFFIX,inmobicdn.cn,ADVERT
+DOMAIN-SUFFIX,inmobicdn.net,ADVERT
+DOMAIN-SUFFIX,inner-active.mobi,ADVERT
+DOMAIN-SUFFIX,insurads.com,ADVERT
+DOMAIN-SUFFIX,ironsrc.com,ADVERT
+DOMAIN-SUFFIX,irs01.com,ADVERT
+DOMAIN-SUFFIX,iskyworker.com,ADVERT
+DOMAIN-SUFFIX,juicyads.com,ADVERT
+DOMAIN-SUFFIX,kochava.com,ADVERT
+DOMAIN-SUFFIX,leadboltmobile.net,ADVERT
+DOMAIN-SUFFIX,lenzmx.com,ADVERT
+DOMAIN-SUFFIX,liveadvert.com,ADVERT
+DOMAIN-SUFFIX,lnk0.com,ADVERT
+DOMAIN-SUFFIX,lnk8.cn,ADVERT
+DOMAIN-SUFFIX,localytics.com,ADVERT
+DOMAIN-SUFFIX,mdfull.com,ADVERT
+DOMAIN-SUFFIX,measurementapi.com,ADVERT
+DOMAIN-SUFFIX,medialytics.com,ADVERT
+DOMAIN-SUFFIX,meetrics.com,ADVERT
+DOMAIN-SUFFIX,meetrics.net,ADVERT
+DOMAIN-SUFFIX,miaozhen.com,ADVERT
+DOMAIN-SUFFIX,mmstat.com,ADVERT
+DOMAIN-SUFFIX,moatads.com,ADVERT
+DOMAIN-SUFFIX,mobclix.com,ADVERT
+DOMAIN-SUFFIX,mopub.com,ADVERT
+DOMAIN-SUFFIX,okjhb.xyz,ADVERT
+DOMAIN-SUFFIX,openx.net,ADVERT
+DOMAIN-SUFFIX,outbrain.com,ADVERT
+DOMAIN-SUFFIX,pubmatic.com,ADVERT
+DOMAIN-SUFFIX,qchannel01.cn,ADVERT
+DOMAIN-SUFFIX,rayjump.com,ADVERT
+DOMAIN-SUFFIX,rtbasia.com,ADVERT
+DOMAIN-SUFFIX,rubiconproject.com,ADVERT
+DOMAIN-SUFFIX,scorecardresearch.com,ADVERT
+DOMAIN-SUFFIX,sdkclick.com,ADVERT
+DOMAIN-SUFFIX,shuzilm.cn,ADVERT
+DOMAIN-SUFFIX,smaato.net,ADVERT
+DOMAIN-SUFFIX,smartadserver.com,ADVERT
+DOMAIN-SUFFIX,smartnews-ads.com,ADVERT
+DOMAIN-SUFFIX,supersonic.com,ADVERT
+DOMAIN-SUFFIX,supersonicads.com,ADVERT
+DOMAIN-SUFFIX,tagtic.cn,ADVERT
+DOMAIN-SUFFIX,tanv.com,ADVERT
+DOMAIN-SUFFIX,tanx.com,ADVERT
+DOMAIN-SUFFIX,tapjoy.com,ADVERT
+DOMAIN-SUFFIX,trafficjunky.net,ADVERT
+DOMAIN-SUFFIX,turn.com,ADVERT
+DOMAIN-SUFFIX,uri6.com,ADVERT
+DOMAIN-SUFFIX,vidoomy.com,ADVERT
+DOMAIN-SUFFIX,vungle.com,ADVERT
+DOMAIN-SUFFIX,wedolook.com,ADVERT
+DOMAIN-SUFFIX,xdrig.com,ADVERT
+DOMAIN-SUFFIX,yumimobi.com,ADVERT
+DOMAIN-SUFFIX,zu08e.cn,ADVERT
+
+DOMAIN-SUFFIX,ad.cmvideo.cn,ADVERT
+DOMAIN-SUFFIX,ad.daum.net,ADVERT
+DOMAIN,abema-adx.ameba.jp,ADVERT
+DOMAIN,ad.12306.cn,ADVERT
+DOMAIN,ad.360in.com,ADVERT
+DOMAIN,ad.51wnl-cq.com,ADVERT
+DOMAIN,ad.caiyunapp.com,ADVERT
+DOMAIN,ad.huajiao.com,ADVERT
+DOMAIN,ad.hzyoka.com,ADVERT
+DOMAIN,ad.jiemian.com,ADVERT
+DOMAIN,ad.qingting.fm,ADVERT
+DOMAIN,ad.wappalyzer.com,ADVERT
+DOMAIN,ad-cn.jovcloud.com,ADVERT
+DOMAIN,adextra.51wnl-cq.com,ADVERT
+DOMAIN,api.adnet.mob.com,ADVERT
+DOMAIN,ads.adadapted.com,ADVERT
+DOMAIN,ads.chinadaily.com.cn,ADVERT
+DOMAIN,ads.daydaycook.com.cn,ADVERT
+DOMAIN,ads.weilitoutiao.net,ADVERT
+DOMAIN,adsapi.manhuaren.com,ADVERT
+DOMAIN,adsdk.dmzj.com,ADVERT
+DOMAIN,adserver.pandora.com,ADVERT
+DOMAIN,adshow.58.com,ADVERT
+DOMAIN,adui.tg.meitu.com,ADVERT
+DOMAIN,adv.bandi.so,ADVERT
+DOMAIN,app-ad.variflight.com,ADVERT
+DOMAIN,appnext.hs.llnwd.net,ADVERT
+DOMAIN,appnext-a.akamaihd.net,ADVERT
+DOMAIN,ggs.myzaker.com,ADVERT
+DOMAIN,itad.linetv.tw,ADVERT
+DOMAIN,ja.chushou.tv,ADVERT
+DOMAIN,mads.suning.com,ADVERT
+DOMAIN,mobileads.msn.com,ADVERT
+DOMAIN,mopnativeadv.037201.com,ADVERT
+DOMAIN,nativeadv.dftoutiao.com,ADVERT
+
+# (0~9)
+# > 58 同城
+# (A)
+# > Apple
+DOMAIN-SUFFIX,iadsdk.apple.com,ADVERT
+DOMAIN-SUFFIX,ads.internal.unity3d.com,ADVERT
+DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,ADVERT
+DOMAIN-SUFFIX,unityads.unity3d.com,ADVERT
+# > Alibaba
+DOMAIN,optimus-ads.amap.com,ADVERT
+DOMAIN,optimus-ads.amap.com.w.alikunlun.com,ADVERT
+DOMAIN,tunion-api.m.taobao.com,ADVERT
+# > AutoHome
+DOMAIN,adproxy.autohome.com.cn,ADVERT
+DOMAIN,rd.autohome.com.cn,ADVERT
+DOMAIN,al.autohome.com.cn,ADVERT
+DOMAIN,applogapi.autohome.com.cn,ADVERT
+# (B)
+# > Baidu
+DOMAIN-SUFFIX,cpro.baidu.com,ADVERT
+DOMAIN-SUFFIX,pos.baidu.com,ADVERT
+DOMAIN,afd.baidu.com,ADVERT
+DOMAIN,als.baidu.com,ADVERT
+DOMAIN,duclick.baidu.com,ADVERT
+DOMAIN,mobads.baidu.com,ADVERT
+DOMAIN,mobads-logs.baidu.com,ADVERT
+DOMAIN,nsclick.baidu.com,ADVERT
+# > ByteDance
+DOMAIN,ad.toutiao.com,ADVERT
+# > BitAuto
+DOMAIN,adx.yiche.com,ADVERT
+DOMAIN,log.ycapp.yiche.com,ADVERT
+# > 百词斩
+DOMAIN,advertise.baicizhan.com,ADVERT
+DOMAIN,advertise.baicizhan.org,ADVERT
+# (C)
+# > CNTV
+DOMAIN,galaxy.bjcathay.com,ADVERT
+DOMAIN,mdrecv.app.cntvwb.cn,ADVERT
+DOMAIN,sdapprecv.app.cntvwb.cn,ADVERT
+DOMAIN,vdapprecv.app.cntvwb.cn,ADVERT
+# > ChinaTelecom
+DOMAIN,ad.21cn.com,ADVERT
+DOMAIN,ad.k.21cn.com,ADVERT
+DOMAIN,admarket.21cn.com,ADVERT
+DOMAIN,adshows.21cn.com,ADVERT
+# > 车来了
+DOMAIN,atrace.chelaile.net.cn,ADVERT
+DOMAIN,logs.chelaile.net.cn,ADVERT
+# (G)
+# > Google
+DOMAIN-SUFFIX,doubleclick.net,ADVERT
+DOMAIN-SUFFIX,googleadservices.com,ADVERT
+DOMAIN-SUFFIX,googleadsserving.cn,ADVERT
+DOMAIN-SUFFIX,googlesyndication.com,ADVERT
+# (H)
+# > HunanTV
+DOMAIN-SUFFIX,da.mgtv.com,ADVERT
+DOMAIN-SUFFIX,da.hunantv.com,ADVERT
+# > Hupu
+DOMAIN,adx.hupu.com,ADVERT
+DOMAIN,adx-api.hupu.com,ADVERT
+DOMAIN,goblin.hupu.com,ADVERT
+# (I)
+# > iQiyi
+DOMAIN,t7z.cupid.iqiyi.com,ADVERT
+IP-CIDR,101.227.97.240/32,ADVERT,no-resolve
+IP-CIDR,101.227.200.11/32,ADVERT,no-resolve
+IP-CIDR,101.227.200.28/32,ADVERT,no-resolve
+IP-CIDR,124.192.153.42/32,ADVERT,no-resolve
+# > Ifeng
+DOMAIN-SUFFIX,deliver.ifeng.com,ADVERT
+DOMAIN,api.newad.ifeng.com,ADVERT
+DOMAIN,ifengad.3g.ifeng.com,ADVERT
+# (K)
+# > KuGou and Kuwo
+DOMAIN,adserviceretry.kugou.com,ADVERT
+DOMAIN,ads.service.kugou.com,ADVERT
+DOMAIN,adsfile.bssdlbig.kugou.com,ADVERT
+DOMAIN,g.koowo.com,ADVERT
+DOMAIN,kgmobilestat.kugou.com,ADVERT
+DOMAIN,kgmobilestatbak.kugou.com,ADVERT
+DOMAIN,mobilelog.kugou.com,ADVERT
+DOMAIN,mobilead.kuwo.cn,ADVERT
+DOMAIN,rich.kuwo.cn,ADVERT
+# > Kingsoft
+DOMAIN,ad-stat.ksosoft.com,ADVERT
+DOMAIN,img.auction-ads.wpscdn.cn,ADVERT
+DOMAIN,counter.kingsoft.com,ADVERT
+DOMAIN,counter.ksosoft.com,ADVERT
+DOMAIN,minfo.wps.cn,ADVERT
+DOMAIN,mobad.ijinshan.com,ADVERT
+DOMAIN,ups.ksmobile.net,ADVERT
+DOMAIN,ws.ksmobile.net,ADVERT
+# (L)
+# > Le
+DOMAIN-SUFFIX,webp2p.letv.com,ADVERT
+DOMAIN,ark.letv.com,ADVERT
+DOMAIN,emma-414870e223.huodonghezi.com,ADVERT
+DOMAIN,g3.letv.com,ADVERT
+DOMAIN,n.mark.letv.com,ADVERT
+# > 乐播投屏
+DOMAIN,ad.hpplay.cn,ADVERT
+DOMAIN,adcdn.hpplay.cn,ADVERT
+DOMAIN,adeng.hpplay.cn,ADVERT
+DOMAIN,rp.hpplay.cn,ADVERT
+# (M)
+# > MI
+DOMAIN-SUFFIX,ad.intl.xiaomi.com,ADVERT
+DOMAIN-SUFFIX,ad.xiaomi.com,ADVERT
+DOMAIN-SUFFIX,admob.xiaomi.com,ADVERT
+DOMAIN,adv.sec.intl.miui.com,ADVERT
+DOMAIN,adv.sec.miui.com,ADVERT
+# > 墨迹天气
+DOMAIN,ad.api.moji.com,ADVERT
+DOMAIN,adlaunch.moji.com,ADVERT
+DOMAIN,ads.mojicdn.com,ADVERT
+DOMAIN,v1.log.moji.com,ADVERT
+# (N)
+# > NetEase
+DOMAIN,ad.bn.netease.com,ADVERT
+DOMAIN,ad.yixin.im,ADVERT
+DOMAIN,admusicpic.music.126.net,ADVERT
+DOMAIN,gorgon.youdao.com,ADVERT
+DOMAIN,iadmat.nosdn.127.net,ADVERT
+DOMAIN,iadmusicmat.music.126.net,ADVERT
+DOMAIN,iadmusicmatvideo.music.126.net,ADVERT
+DOMAIN,impservice.dictapp.youdao.com,ADVERT
+DOMAIN,impservice.youdao.com,ADVERT
+DOMAIN,log.yex.youdao.com,ADVERT
+DOMAIN,log-yex.youdao.com,ADVERT
+DOMAIN,n.3g.163.com,ADVERT
+DOMAIN,nex.163.com,ADVERT
+DOMAIN,yt-adp.nosdn.127.net,ADVERT
+DOMAIN,yt-adp.ws.126.net,ADVERT
+# (P)
+# > PPTV
+DOMAIN,ads.aplus.pptv.com,ADVERT
+DOMAIN,ads.aplusapi.pptv.com,ADVERT
+DOMAIN,asimgs.pplive.cn,ADVERT
+DOMAIN,de.as.pptv.com,ADVERT
+# > Photoable
+DOMAIN,regist.fotoable.com,ADVERT
+DOMAIN,cdn.adapi.fotoable.com,ADVERT
+# > PeanutWiFiMpass
+DOMAIN,adnew.wifi8.com,ADVERT
+DOMAIN,adfile.wifi8.com,ADVERT
+# (S)
+# > Sina
+DOMAIN-SUFFIX,beacon.sina.com.cn,ADVERT
+DOMAIN,adimg.vue.weibo.com,ADVERT
+DOMAIN,u1.img.mobile.sina.cn,ADVERT
+DOMAIN,sax.sina.com.cn,ADVERT
+DOMAIN,saxs.sina.com.cn,ADVERT
+DOMAIN,saxn.sina.com.cn,ADVERT
+# > Sohu
+DOMAIN-SUFFIX,ad.sohu.com,ADVERT
+DOMAIN-SUFFIX,ads.sohu.com,ADVERT
+DOMAIN-SUFFIX,aty.sohu.com,ADVERT
+DOMAIN,imp.optaim.com,ADVERT
+DOMAIN,v2.reachmax.cn,ADVERT
+DOMAIN,track.sohu.com,ADVERT
+DOMAIN,hui.sohu.com,ADVERT
+# (T)
+# > Tencent
+DOMAIN-SUFFIX,e.qq.com,ADVERT
+DOMAIN-SUFFIX,gdt.qq.com,ADVERT
+DOMAIN-SUFFIX,l.qq.com,ADVERT
+DOMAIN,adsmind.apdcdn.tc.qq.com,ADVERT
+DOMAIN,adsmind.gdtimg.com,ADVERT
+DOMAIN,adsmind.tc.qq.com,ADVERT
+DOMAIN,pgdt.gtimg.cn,ADVERT
+DOMAIN,pgdt.gtimg.com,ADVERT
+DOMAIN,pgdt.ugdtimg.com,ADVERT
+DOMAIN,splashqqlive.gtimg.com,ADVERT
+DOMAIN,wa.gtimg.com,ADVERT
+DOMAIN,wxsnsdy.wxs.qq.com,ADVERT
+DOMAIN,wxsnsdythumb.wxs.qq.com,ADVERT
+# > The Paper
+DOMAIN,admonitor.thepaper.cn,ADVERT
+DOMAIN,adpai.thepaper.cn,ADVERT
+DOMAIN,imgadpai.thepaper.cn,ADVERT
+# > Thunder
+DOMAIN,adsp.xunlei.com,ADVERT
+DOMAIN,etl.xlmc.sandai.net,ADVERT
+# > 同花顺
+DOMAIN,adm.10jqka.com.cn,ADVERT
+DOMAIN,stat.10jqka.com.cn,ADVERT
+# > 太平洋
+DOMAIN,ad-analysis.pconline.com.cn,ADVERT
+DOMAIN,iad0ssl.pcauto.com.cn,ADVERT
+DOMAIN,iad0ssl.pconline.com.cn,ADVERT
+DOMAIN,imgad0.pcauto.com.cn,ADVERT
+DOMAIN,imgad0.pconline.com.cn,ADVERT
+DOMAIN,ivy.pchouse.com.cn,ADVERT
+# (W)
+# > WiFi 万能钥匙
+DOMAIN,a.wkanx.com,ADVERT
+DOMAIN,cwx.lianwangtech.com,ADVERT
+DOMAIN,c1wx.lianwangtech.com,ADVERT
+# (X)
+# > 喜马拉雅
+DOMAIN,ad.ximalaya.com,ADVERT
+DOMAIN,adbs.ximalaya.com,ADVERT
+DOMAIN,adse.ximalaya.com,ADVERT
+DOMAIN,adse.wsa.ximalaya.com,ADVERT
+DOMAIN,adbehavior.wsa.ximalaya.com,ADVERT
+DOMAIN,adsebs.ximalaya.com,ADVERT
+# > 小红书
+DOMAIN,ads-img-qc.xhscdn.com,ADVERT
+DOMAIN,ads-video-qc.xhscdn.com,ADVERT
+DOMAIN,t-ads.xiaohongshu.com,ADVERT
+# (Y)
+# > Youku
+DOMAIN-SUFFIX,atm.youku.com,ADVERT
+DOMAIN,ad.mobile.youku.com,ADVERT
+DOMAIN,iyes.youku.com,ADVERT
+# (Z)
+# > ZOL
+DOMAIN,apppv.zol.com.cn,ADVERT
+DOMAIN,pvnapp.zol.com.cn,ADVERT
