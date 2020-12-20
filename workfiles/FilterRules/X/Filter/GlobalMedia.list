@@ -221,3 +221,5 @@ USER-AGENT,YouTube*,GlobalMedia
 DOMAIN-SUFFIX,googlevideo.com,GlobalMedia
 DOMAIN-SUFFIX,youtube.com,GlobalMedia
 DOMAIN,youtubei.googleapis.com,GlobalMedia
+DOMAIN-SUFFIX,ytimg.com,GlobalMedia
+DOMAIN,yt3.ggpht.com,GlobalMedia
