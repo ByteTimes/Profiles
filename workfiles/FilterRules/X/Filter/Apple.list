@@ -1,26 +1,26 @@
-# Apple
-DOMAIN-SUFFIX,aaplimg.com,Apple
-DOMAIN-SUFFIX,apple.co,Apple
-DOMAIN-SUFFIX,apple.com,Apple
-DOMAIN-SUFFIX,apple.com.cn,Apple
-DOMAIN-SUFFIX,apple-cloudkit.com,Apple
-DOMAIN-SUFFIX,appstore.com,Apple
-DOMAIN-SUFFIX,cdn-apple.com,Apple
-DOMAIN-SUFFIX,icloud.com,Apple
-DOMAIN-SUFFIX,icloud.com.cn,Apple
-DOMAIN-SUFFIX,icloud-content.com,Apple
-DOMAIN-SUFFIX,me.com,Apple
-DOMAIN-SUFFIX,mzstatic.com,Apple
-DOMAIN-KEYWORD,apple.com.akadns.net,Apple
-DOMAIN-KEYWORD,icloud.com.akadns.net,Apple
-IP-CIDR,17.0.0.0/8,Apple
-IP-CIDR,63.92.224.0/19,Apple
-IP-CIDR,65.199.22.0/23,Apple
-IP-CIDR,139.178.128.0/18,Apple
-IP-CIDR,144.178.0.0/19,Apple
-IP-CIDR,192.35.50.0/24,Apple
-IP-CIDR,198.183.17.0/24,Apple
-IP-CIDR,205.180.175.0/24,Apple
+# APPLE
+DOMAIN-SUFFIX,aaplimg.com,Direct
+DOMAIN-SUFFIX,apple.co,Direct
+DOMAIN-SUFFIX,apple.com,Direct
+DOMAIN-SUFFIX,apple.com.cn,Direct
+DOMAIN-SUFFIX,apple-cloudkit.com,Direct
+DOMAIN-SUFFIX,appstore.com,Direct
+DOMAIN-SUFFIX,cdn-apple.com,Direct
+DOMAIN-SUFFIX,icloud.com,Direct
+DOMAIN-SUFFIX,icloud.com.cn,Direct
+DOMAIN-SUFFIX,icloud-content.com,Direct
+DOMAIN-SUFFIX,me.com,Direct
+DOMAIN-SUFFIX,mzstatic.com,Direct
+DOMAIN-KEYWORD,apple.com.akadns.net,Direct
+DOMAIN-KEYWORD,icloud.com.akadns.net,Direct
+IP-CIDR,17.0.0.0/8,Direct
+IP-CIDR,63.92.224.0/19,Direct
+IP-CIDR,65.199.22.0/23,Direct
+IP-CIDR,139.178.128.0/18,Direct
+IP-CIDR,144.178.0.0/19,Direct
+IP-CIDR,192.35.50.0/24,Direct
+IP-CIDR,198.183.17.0/24,Direct
+IP-CIDR,205.180.175.0/24,Direct
 
 # 禁止苹果更新服务
 DOMAIN,ocsp.int-x3.letsencrypt.org,REJECT
