@@ -1,10 +1,5 @@
-/** 
-资源解析器
-----------------------------------------------------------
-🛠 功能: 
-❶ 将其它格式的服务器订阅解析成 𝐐𝐮𝐚𝐧𝐭𝐮𝐦𝐮𝐥𝐭 𝐗 格式
-❷ 𝗿𝗲𝘄𝗿𝗶𝘁𝗲(重写) & 𝗳𝗶𝗹𝘁𝗲𝗿(分流) 的 转换 & 筛选 
-----------------------------------------------------------
+﻿/** 
+
 */
 
 let [link0, content0, subinfo] = [$resource.link, $resource.content, $resource.info]
@@ -58,6 +53,7 @@ var Prrname = mark0 && para1.indexOf("rrname=") != -1 ? para1.split("rrname=")[1
 var Ppolicy = mark0 && para1.indexOf("policy=") != -1 ? decodeURIComponent(para1.split("policy=")[1].split("&")[0]) : "Shawn";
 var Pcert0 = mark0 && para1.indexOf("cert=") != -1 ? para1.split("cert=")[1].split("&")[0] : 0;
 var Psort0 = mark0 && para1.indexOf("sort=") != -1 ? para1.split("sort=")[1].split("&")[0] : 0;
+var PsortX = mark0 && para1.indexOf("sortx=") != -1 ? para1.split("sortx=")[1].split("&")[0] : 0;
 var PTls13 = mark0 && para1.indexOf("tls13=") != -1 ? para1.split("tls13=")[1].split("&")[0] : 0;
 var Pntf0 = mark0 && para1.indexOf("ntf=") != -1 ? para1.split("ntf=")[1].split("&")[0] : 2;
 var Pb64 = mark0 && para1.indexOf("b64=") != -1 ? para1.split("b64=")[1].split("&")[0] : 0;
@@ -1179,6 +1175,7 @@ function shuffle(arr) {
 function Sort_KWD (cnt,strs) {
   strlist = strs.indexOf("<") != -1 ? strs.split("<"):strs.split(">")
   regj = strlist.map(item => RegExp(item, "i"))
+  //dir = PsortX
   dir = strs.indexOf("<") != -1 ? -1:1
   var arr =  new Array(strlist.length+1);   //表格有n行
   for(var i = 0;i < arr.length; i++){
@@ -1197,6 +1194,8 @@ function Sort_KWD (cnt,strs) {
       arr[strlist.length].push(cnt[i]) } // 不匹配项
   }
   //console.log(arr)
+  arr = PsortX == -1? arr.map(item => item.sort(ToTagR)):arr
+  arr = PsortX == 1? arr.map(item => item.sort(ToTag)):arr
   newarr = MixArr(arr,dir)
   return newarr
 }
