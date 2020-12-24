@@ -1,0 +1,7 @@
+﻿# AdTownship
+# > Township梦想城镇
+
+DOMAIN-SUFFIX,appsflyer.com,REJECT
+DOMAIN-SUFFIX,vungle.com,REJECT
+DOMAIN-SUFFIX,mopub.com,REJECT
+DOMAIN-SUFFIX,unityads.unity3d.com,REJECT
