@@ -189,7 +189,7 @@ DOMAIN-SUFFIX,smaato.net,REJECT
 DOMAIN-SUFFIX,smartadserver.com,REJECT
 DOMAIN-SUFFIX,smartnews-ads.com,REJECT
 DOMAIN-SUFFIX,supersonic.com,REJECT
-DOMAIN-SUFFIX,supersonicads.com,REJECT
+# DOMAIN-SUFFIX,supersonicads.com,REJECT
 DOMAIN-SUFFIX,tagtic.cn,REJECT
 DOMAIN-SUFFIX,tanv.com,REJECT
 DOMAIN-SUFFIX,tanx.com,REJECT
@@ -355,7 +355,7 @@ DOMAIN,exp.360in.com,REJECT
 
 # (G)
 # > Google
-DOMAIN-SUFFIX,doubleclick.net,REJECT
+# DOMAIN-SUFFIX,doubleclick.net,REJECT
 DOMAIN-SUFFIX,googleadservices.com,REJECT
 DOMAIN-SUFFIX,googleadsserving.cn,REJECT
 DOMAIN-SUFFIX,googlesyndication.com,REJECT
