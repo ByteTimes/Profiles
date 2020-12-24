@@ -2,7 +2,6 @@
 vmess=vipdns.top:443, method=none, password=102500a7-1fd6-4741-9073-c212f7f9983f, obfs=wss, obfs-uri=/taiwanvmweb, fast-open=false, udp-relay=false, tag=vmess-🇨🇳台湾
 
 
-http=43.226.147.126:80, fast-open=false, udp-relay=false, tag=网络节点-1
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=网络节点-2
-
+http=43.226.147.126:80, fast-open=false, udp-relay=false, tag=电信节点-🇨🇳大连
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=腾讯节点-🇨🇳广州
 
