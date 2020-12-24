@@ -1,0 +1,5 @@
+﻿vmess=www.vipdns.top:443, method=none, password=236bc815-a057-47bf-a04d-be691a94c300, obfs=wss, obfs-uri=/hongkongvmweb, fast-open=false, udp-relay=false, tag=vmess-🇭🇰香港
+vmess=vipdns.top:443, method=none, password=102500a7-1fd6-4741-9073-c212f7f9983f, obfs=wss, obfs-uri=/taiwanvmweb, fast-open=false, udp-relay=false, tag=vmess-🇨🇳台湾
+
+
+
