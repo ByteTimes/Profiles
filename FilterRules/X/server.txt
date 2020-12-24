@@ -1,14 +1,8 @@
 ﻿vmess=www.vipdns.top:443, method=none, password=236bc815-a057-47bf-a04d-be691a94c300, obfs=wss, obfs-uri=/hongkongvmweb, fast-open=false, udp-relay=false, tag=vmess-🇭🇰香港
 vmess=vipdns.top:443, method=none, password=102500a7-1fd6-4741-9073-c212f7f9983f, obfs=wss, obfs-uri=/taiwanvmweb, fast-open=false, udp-relay=false, tag=vmess-🇨🇳台湾
 
-http=aimer.one:23333, fast-open=false, udp-relay=false, tag=🎵 解锁节点-leeds
-http=xbmmw.xyz:1001, fast-open=false, udp-relay=false, tag=🎵 解锁节点-xbmango
-http=43.226.147.126:80, fast-open=false, udp-relay=false, tag=🎵 解锁节点-Django
-http=192.168.11.33:40080, fast-open=false, udp-relay=false, tag=🎵 解锁节点-test
 
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_vrfn, fast-open=false, udp-relay=false, tag=🎵 解锁节点-1
-http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎵 解锁节点-2
-http=taron.top:100, fast-open=false, udp-relay=false, tag=🎵 解锁节点-3
-http=taron.top:200, fast-open=false, udp-relay=false, tag=🎵 解锁节点-4
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=🎵 解锁节点-5
+http=43.226.147.126:80, fast-open=false, udp-relay=false, tag=网络节点-1
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=网络节点-2
+
 
