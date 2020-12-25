@@ -1,5 +1,5 @@
-/*
-README：https://github.com/yichahucha/surge/tree/master
+﻿/*
+README：https://github.com/SavileLee
  */
 
 const $tool = new Tool()
