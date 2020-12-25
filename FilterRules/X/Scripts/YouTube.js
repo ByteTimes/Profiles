@@ -1,9 +1,9 @@
-/*
+ï»¿/*
 YouTube ADS Remove
 
 Surge4.0:
 [Script]
-# Èç¹ûÄúÊÇ YouTube Premium£¬Çë²»Òª¿ªÆô´ËÄ£¿é¡£
+# å¦‚æœæ‚¨æ˜¯ YouTube Premiumï¼Œè¯·ä¸è¦å¼€å¯æ­¤æ¨¡å—ã€‚
 youtube_ad = type=http-request,pattern=^https?:\/\/.+?\.googlevideo\.com\/.+&(oad|ctier)=(?!A),script-path=https://raw.githubusercontent.com/SavileLee/Profiles/Rules/FilterRules/X/Scripts/YouTube.js
 
 QX 1.0.0:
