@@ -2,6 +2,7 @@
 
 # Google Colab[![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining) [![License: MIT][License-Badge]](LICENSE.md)
 Google实验室，可以提高您的生产力并帮助您执行日常任务。
+
 Simple for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 
 
@@ -33,6 +34,6 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
-[RDP Notebook]:         https://colab.research.google.com/github/SavileLee/Network/blob/cloud/ColabFiles/Colab%20RDP/Colab%20RDP.ipynb
-[Code Notebook]:        https://colab.research.google.com/github/SavileLee/Network/blob/cloud/ColabFiles/Code%20Server/Code%20Server.ipynb
+[RDP Notebook]:         https://colab.research.google.com/github/SavileLee/Profiles/blob/Rules/ColabFiles/Colab%20RDP/Colab%20RDP.ipynb
+[Code Notebook]:        https://colab.research.google.com/github/SavileLee/Profiles/blob/Rules/ColabFiles/Code%20Server/Code%20Server.ipynb
 [Warning]:              https://img.shields.io/badge/Warning-red
