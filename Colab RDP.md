@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/58343733?v=4" align="right" height="50" width="50"/>
 
-# Google Colab[![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining) [![License: MIT][License-Badge]](LICENSE.md)
+# Google Colab[![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining) [![License: MIT][License-Badge]](LICENSE)
 Google实验室，可以提高您的生产力并帮助您执行日常任务。
 
 ## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] 
