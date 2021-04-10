@@ -1,12 +1,12 @@
-<img src="https://avatars.githubusercontent.com/u/58343733?v=4" align="right" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/PradyumnaKrishna/PradyumnaKrishna/master/logo.svg" align="right" height="50" width="50"/>
 
-# Google Colab[![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining) [![License: MIT][License-Badge]](LICENSE.md)
-Simple for Google Colaboratory to boost your productivity and help you to perform daily tasks.
+# Colab Hacks [![Warning][Warning]](#Warning-Not-for-Cryptocurrency-Mining) [![License: MIT][License-Badge]](LICENSE.md)
+Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 
 Here is a brief about them all:
 
 
-## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/SavileLee/Network/ColabFiles/issues/labels/Colab%20RDP)
+## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20RDP)
 
 Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it with graphic user interface which can be used in many ways. It give you high end VM for maximum 12 hours which boost your productivity and you can perform heavy task without any worries.
 
@@ -16,14 +16,14 @@ Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it
 
 <br />
 
-## [Code Server](Code%20Server/Code%20Server.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Code Notebook] [![Code Issues][Code Issues]](https://github.com/SavileLee/Network/ColabFiles/issues/labels/Code%Server)
+## [Code Server](Code%20Server/Code%20Server.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Code Notebook] [![Code Issues][Code Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Code%Server)
 Code Server is used to launch **VSCode** on browser using Agro Tunnel in Google Colaboratory which gives you better coding experience and you can use it for write code. Making a script to configure VSCode makes it more productive.
 
 ### **Going to add more functionality soon**
 
 <br />
 
-## [Torrent Downloader](Torrent%20Downloader/Torrent%20Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Torrent Notebook] [![Torrent Issues][Torrent Issues]](https://github.com/SavileLee/Network/ColabFiles/issues/labels/Torrent%20Downloader)
+## [Torrent Downloader](Torrent%20Downloader/Torrent%20Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Torrent Notebook] [![Torrent Issues][Torrent Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Torrent%20Downloader)
 Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't need any torrent client only just a google account for downloading and storing downloaded torrents into google drive. It doesn't utilizes your internet for download and for any reason the download remains incomplete then you can resume it in other colab instance. Just Download from your drive if needed.
 
 ### **Some Points:**
@@ -47,10 +47,10 @@ Please note that using Colaboratory for cryptocurrency mining is disallowed enti
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
-[RDP Issues]:           https://img.shields.io/github/issues/SavileLee/Network/ColabFiles/Colab%20RDP?label=Issues
-[RDP Notebook]:         https://savilelee.github.io/Network/ColabFiles/Code%20Server/Code%20Server.ipynb
-[Code Issues]:           https://img.shields.io/github/issues/SavileLee/Network/ColabFiles/Code%20Server?label=Issues
-[Code Notebook]:         https://savilelee.github.io/Network/ColabFiles/Code%20Server/Code%20Server.ipynb
-[Torrent Issues]:       https://img.shields.io/github/issues/SavileLee/Network/ColabFiles/Torrent%20Downloader?label=Issues
-[Torrent Notebook]:     https://savilelee.github.io/Network/ColabFiles/Torrent%20Downloader/Torrent%20Downloader.ipynb
+[RDP Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Colab%20RDP?label=Issues
+[RDP Notebook]:         https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
+[Code Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Code%20Server?label=Issues
+[Code Notebook]:         https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Code%20Server/Code%20Server.ipynb
+[Torrent Issues]:       https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Torrent%20Downloader?label=Issues
+[Torrent Notebook]:     https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb
 [Warning]:              https://img.shields.io/badge/Warning-red
