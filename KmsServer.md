@@ -16,17 +16,17 @@
 
 ### 一键安装KMS服务 （Debian/Ubuntu/Mint 等）
 ```
-wget -N --no-check-certificate git.io/k.sh && chmod +x k.sh && bash k.sh debian
+wget -N --no-check-certificate git.io/kms && chmod +x kms.sh && bash kms.sh debian
 ```
 
 ### 一键安装KMS服务 （CentOS/Redhat/Fedora 等）（如果系统开启了防火墙 须自行开放 1688 端口）
 ```
-wget -N --no-check-certificate git.io/k.sh && chmod +x k.sh && bash k.sh centos
+wget -N --no-check-certificate git.io/kms && chmod +x kms.sh && bash kms.sh centos
 ```
 
 ### 启动KMS服务
 ```
-bash k.sh start
+bash kms.sh start
 
 服务器IP地址既是KMS服务器地址
 也可以将域名解析至IP使用（支持IPv6 即AAAA记录）
@@ -36,27 +36,27 @@ bash k.sh start
 
 ### 关闭KMS服务
 ```
-bash k.sh stop
+bash kms.sh stop
 ```
 
 ### 添加开机自启动KMS服务
 ```
-bash k.sh auto
+bash kms.sh auto
 ```
 
 ### 重启KMS服务
 ```
-bash k.sh restart
+bash kms.sh restart
 ```
 
 ### 查看KMS服务运行状态
 ```
-bash k.sh status
+bash kms.sh status
 ```
 
 ### 卸载KMS服务
 ```
-bash k.sh uninstall
+bash kms.sh uninstall
 ```
 
 ## Windows系统 自建KMS服务器

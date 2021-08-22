@@ -2,7 +2,7 @@
 
 #====================================================
 #	System Request: Debian/Ubuntu/Mint/CentOS/Redhat/Fedora
-#	Author: dylanbai8
+#	Author: SavileLee
 #	Dscription: KMS服务一键安装脚本
 #	Open Source: https://SavileLee.github.io/Profiles/KmsServer
 #	Official document: https://kms.dreamstart.site
