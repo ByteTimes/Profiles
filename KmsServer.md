@@ -31,7 +31,7 @@ bash kms.sh start
 服务器IP地址既是KMS服务器地址
 也可以将域名解析至IP使用（支持IPv6 即AAAA记录）
 
-更多详细教程：https://kms.dreamstart.site/kms.html
+更多详细教程：https://SavileLee.github.io/Profiles/KmsServer/kms.html
 ```
 
 ### 关闭KMS服务
