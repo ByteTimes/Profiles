@@ -78,7 +78,4 @@ https://github.com/Wind4/vlmcsd/releases
 ```
 此项目脚本基于以下开源项目：
 https://github.com/Wind4/vlmcsd
-https://github.com/ThunderEX/py-kms
-https://forums.mydigitallife.net/members/hotbird64.333466/
-https://forums.mydigitallife.net/members/pantagruel.5805/
 ```
