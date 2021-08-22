@@ -73,13 +73,6 @@ https://github.com/Wind4/vlmcsd/releases
 \binaries\Windows\intel\vlmcsd-Windows-x86.exe
 ```
 
-## 安卓手机 自建KMS服务器
-```
-访问下方地址：
-https://kms.dreamstart.site/android.html
-查看教程
-```
-
 ## 版权声明：
 ### 此项目仅为bash一键脚本，脚本内所涉及到的任何软件版权和责任归原作者所有。
 ```
