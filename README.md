@@ -1,1 +1,1 @@
-![CHN-L's github stats](https://github-readme-stats.vercel.app/api?username=ByteTimes&show_icons=true&&hide=contribs,issues) 
+![ByteTimes's github stats](https://raw.githubusercontent.com/ByteTimes/github-stats/master/generated/languages.svg#gh-dark-mode-only) 
